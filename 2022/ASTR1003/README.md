@@ -1,6 +1,6 @@
-Week 1
+# Week 1
 
-# Falsifiable theories
+## Falsifiable theories
 
 -   Newton’s Theory of Gravity
 -   Einstein General Relativity
@@ -9,12 +9,12 @@ Week 1
 
 Can be disproved by a single experiment
 
-# Non-falsifiable theories
+## Non-falsifiable theories
 
 -   God
 -   Universe was created 6000 years ago as a practical joke
 
-# Scientific method
+## Scientific method
 
 -   Do an experiment
     -   Come up with theory/theories
@@ -28,18 +28,18 @@ If facts do not fit the theory
 -   Theory is wrong
     -   Revise current theory or make a new one that fits all the facts
 
-# Evidence
+## Evidence
 
 -   Repeatability
 -   Science is objective, while scientists aren’t
 
-# Competing theories
+## Competing theories
 
 -   Occam’s Razor: choose simplest theory that fits the evidence
 
-Week 2
+# Week 2
 
-# Historical
+## Historical
 
 -   Wurdi Youang (11,000 years ago, Wadawurrung Country)
 -   Stonehenge (5,000 years ago, England)
@@ -75,7 +75,7 @@ Week 2
     -   Built the first functional reflecting telescope
     -   
 
-# Stellar scintillation
+## Stellar scintillation
 
 -   Twinkling of stars due to refraction of light as it passes through the turbulent atmosphere
 -   **Indigenous interpretations of scintillation:**
@@ -84,9 +84,9 @@ Week 2
     -   Seasonal changes
     -   Food economics
 
-Week 3
+# Week 3
 
-# Definitions
+## Definitions
 
 Constellation
 
@@ -120,11 +120,11 @@ Right ascension
 
 **Longitude = vertical line**
 
-# Seasons
+## Seasons
 
 -   Combination of day length and sunlight angle gives seasons
 
-# Precession
+## Precession
 
 -   Change in the orientation of the rotational axis of a celestial body
 -   Just like Earth’s tilt
@@ -134,7 +134,7 @@ Right ascension
 
 Week 4
 
-# Stellar parallax
+## Stellar parallax
 
 -   Apparent shift of a foreground object relative to background
 -   Parallax measurement can be measured on any object in the sky
@@ -143,7 +143,7 @@ Week 4
 
 parallax = 1AU/D D in parsec
 
-# Brightness
+## Brightness
 
 Inversely proportional to distance\^2
 
@@ -151,7 +151,7 @@ M = m + 5 – 5log( r )
 
 M = absolute, m = relative magnitude, r = distance in parsec. parsec = 3.26 ly
 
-# Motion
+## Motion
 
 Proper motion
 
@@ -161,9 +161,9 @@ True motion
 
 -   Actual motion
 
-Week 5
+# Week 5
 
-# Telescopes
+## Telescopes
 
 Refraction
 
@@ -183,28 +183,28 @@ Snell’s law:
 
 **![A picture containing text, antenna Description automatically generated](media/3cecb6261ecec2f95fa9d30fe550d23a.png)**
 
-# Scale of Brightness
+## Scale of Brightness
 
 m2 – m1 = 2.5 log (bm1 / bm2) = 2.5 log (D1\^2/D2\^2)
 
 Where m = distances, b = brightness?, D = diameter of aperture
 
-# Images
+## Images
 
 -   Real images vs virtual images
 
-# Angular magnification
+## Angular magnification
 
 ![Diagram Description automatically generated](media/b3cb5a27536f8b8c690532e719efd954.png)![Diagram Description automatically generated](media/a2e97ea4923018a82022e17c1c44c6d5.png)
 
-# Chromatic aberrations
+## Chromatic aberrations
 
 -   Different colours bend at different speed
 -   Put through lens and you can see separate red/blue colours
 -   Light absorbed as it travels through lens material
 -   Perfect lens can be built with different glass of different refractive indexes, but very complicated and difficult
 
-# Terms
+## Terms
 
 -   Resolving power
     -   Maximum detail that can be seen through a telescope
@@ -215,7 +215,7 @@ Where m = distances, b = brightness?, D = diameter of aperture
 
 ![](media/03b022edfdf04114b0e0b84ceb6bee80.png)
 
-# Radio telescopes
+## Radio telescopes
 
 Angular resolution:
 
@@ -223,7 +223,7 @@ Angular resolution:
 
 wavelength / diameter
 
-Week 6
+# Week 6
 
 Period: time for one oscillation of a wave
 
@@ -231,13 +231,13 @@ Frequency: how many oscillations per second
 
 Speed = wavelength x frequency
 
-# Black body radiation
+## Black body radiation
 
 P = A o T\^4 (P = power or luminosity)
 
 Power (watts,) = surface area (m\^2) \* Stefan-Boltzmann Constant \* temperature (kelvin) \^ 4
 
-# Thermal radiation
+## Thermal radiation
 
 Wien’s law
 
@@ -247,15 +247,15 @@ C is constant of proportionality![](media/272b95c051cc3ef7a7b536a515a07c8c.png)
 
 T in kelvin
 
-# Temperature
+## Temperature
 
 ![](media/3682a4c971fd1a5655f0b7eaaa1318cd.png)
 
-# Flux
+## Flux
 
 Flux = Total power / 4 pi r\^2
 
-# Definitions
+## Definitions
 
 ![](media/0eea53118c11c81764774e85fedef992.png)
 
@@ -263,21 +263,21 @@ Flux = Total power / 4 pi r\^2
 
 ![Text, letter Description automatically generated](media/125ebbdd21ccd079b989b4d16bc43748.png)
 
-# Stellar mass
+## Stellar mass
 
 Mass correlates with radius and luminosity
 
 ![Text Description automatically generated](media/9b6742b79c84262c9bbb535baaf920be.png)
 
-# Stellar lifetime
+## Stellar lifetime
 
 Mass also correlates with stellar lifetime
 
 Stellar lifetime inversely proportional to stellar mass \^3
 
-Week 7
+# Week 7
 
-# Spectra
+## Spectra
 
 **Continuous** spectra – all wavelengths
 
@@ -294,7 +294,7 @@ Spectral lines can also reveal:
 -   Distances to other galaxies **(cosmological redshift)**
 -   Magnetic field strength **(Zeeman effect)**
 
-# Bohr model energy levels
+## Bohr model energy levels
 
 ![Diagram Description automatically generated](media/dbca95da866f9969269e65bb15bc67fe.png)
 
@@ -309,25 +309,25 @@ E is energy
 -   Hydrogen absorbs photons at wavelengths that correspond with energy level transition
 -   Also emits photons at these wavelengths after excited state decay
 
-# Spectral classification (racism :tf:)
+## Spectral classification (racism :tf:)
 
 ![](media/45a601c0ec60247a573d14ab8d1efd05.png)
 
-# Age of the universe
+## Age of the universe
 
 ![](media/5fbe1abe268a06c834f23ecb46dc8f41.png)
 
-Week 8
+# Week 8
 
 ![](media/15d35016389344acb27f45884b89b2de.png)
 
-# Galaxy classification
+## Galaxy classification
 
 Spiral, barred spiral, irregular, elliptical
 
 ![](media/bce807706087696c3128001892952296.png)![](media/8c510df7e585c98dbba3e9cbe86ec72a.png)
 
-# Star formation
+## Star formation
 
 Spiral galaxies are thought to be young and have gas that can form stars
 
@@ -336,7 +336,7 @@ Spiral galaxies are thought to be young and have gas that can form stars
 -   Young, hot stars form in the disk, making it appear blue.
 -   Older (cooler) stars in the bulge look yellow
 
-# Trivia
+## Trivia
 
 Earth more abundant in elements such as Silicon and Oxygen because planetary formation concentrates heavier elements
 
@@ -344,13 +344,13 @@ Red dwarf is not associated with something end of star’s life cycle
 
 Stars in galaxies that are far away from us have fewer heavy elements than nearby stars
 
-Week 9
+# Week 9
 
 ![](media/eed87cfccae7ec14121e8bff14950e72.png)
 
 ![Graphical user interface Description automatically generated](media/f255df05c66a51a7bf6336e318ea57d2.png)
 
-# Protostar formation
+## Protostar formation
 
 Gravitational collapse of a vast cloud of gas and dust creates protostars
 
@@ -376,7 +376,7 @@ The amount of hydrogen a star has available to burn is approximately proportiona
 
 ![Text Description automatically generated](media/f4061cbe65e714801c5e063498008f6b.png)
 
-# Supernovae
+## Supernovae
 
 -   **Larger than 10-12 solar masses**
 -   Silicon fusion produces Iron
@@ -384,7 +384,7 @@ The amount of hydrogen a star has available to burn is approximately proportiona
 -   Electron combine with protons to form neutron & neutrinos
 -   ![A screenshot of a computer Description automatically generated with low confidence](media/3be394b5067c3364bd6b8dbfe2857120.png)
 
-# Types of supernovae
+## Types of supernovae
 
 -   Type I
     -   Occur in binary systems
@@ -397,21 +397,21 @@ The amount of hydrogen a star has available to burn is approximately proportiona
 
 **White dwarf will explode if they accrete too much matter (\>1.4 solar masses)**
 
-# Elements beyond iron
+## Elements beyond iron
 
 ![](media/a132529f52708379bace895b5fec3b84.png)
 
 ![](media/03cb559eedb7349a9b4a6d255c45c6a6.png)
 
-Week 10
+# Week 10
 
-# Tully-Fisher relation
+## Tully-Fisher relation
 
 -   Relationship between the mass/intrinsic luminosity of a spiral galaxy and its rotation velocity or emission line width
 -   More massive spiral galaxies tend to be brighter
 -   Rotation speed increase with mass
 
-# Olber’s paradox
+## Olber’s paradox
 
 -   **Why is the night sky dark?**
     -   If the universe is static and infinite in extent, then every line of sight from Earth will eventually intersect the surface of a star
